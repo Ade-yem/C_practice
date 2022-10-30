@@ -1,0 +1,87 @@
+jack_bauer
+
+print 24 hours
+
+i for hours
+j for minutes
+if i = 0
+a = 0
+b = 0
+
+j = 0
+c = 0
+d = 0
+
+j = 1
+c = 0 j / 10
+d = 1  j % 10
+
+9 times table
+times table from 0 to 9
+i and j
+for i in 9
+for j in 9
+times = i * j
+putvhar times
+newline
+
+i = 0
+j = 0
+j* i
+j = 1
+
+if j is not  = 9,
+putchar , and space
+
+fibonacci
+
+1, 2
+print prev, cur
+for i in 2,50
+new = prev + cur
+new = prev
+cur = i
+print new
+
+caps
+int array for seperators
+count the string
+for j in seperators
+if s[count] == seperator[j]
+    for i in 97 to 122
+    if s[count+1] == i
+    s[count+1] = i - 32
+
+count ++
+return s
+
+infinite add
+n1 , n2, r, size_r
+add it like simple arithmetic
+
+count the number of n1 amd n2 with i and j
+size_r = whichever if greater between i and j + 1
+decrease i, j, and size_r
+while size_r != 0
+int add_r
+add_r = n1[i] + n2[j] + add_f
+if add_r > 9; add_r %= 10
+add_f = add_r / 10;
+
+
+r[size_r] = add_r
+
+
+
+size_r--;
+return r
+
+infinite mul
+
+n u m 1 j
+*
+n u m 2 i
+
+i1 x j1
+i1 x j2
+i1 x j3
